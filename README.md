@@ -37,6 +37,7 @@ The project uses a **binary chest X-ray image dataset** containing two classes:
 
 * **COVID-19**
 * **Normal**
+  
 The data file names are:
 - CovidImages.npy
 - CovidLabels.csv
